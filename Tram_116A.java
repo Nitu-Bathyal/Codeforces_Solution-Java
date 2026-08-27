@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 116A_Tram {
+public class Tram_116A{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
